@@ -9,7 +9,7 @@ It exposes a 4-pin connector that allows I2C communication with the display: SDA
 
 ## Bill of Materials
 
-* [20mm 7-Segment Display](https://www.sparkfun.com/products/11442)
+* [20mm 7-Segment Display](https://www.sparkfun.com/products/11408)
 * [Arduino Nano](http://www.dx.com/p/new-nano-v3-0-module-atmega328p-au-improved-version-for-arduino-yellow-369070)
 * [4 100Ω Resistors](https://www.sparkfun.com/products/13761)
 * [2 x 6-Pin Female Headers](https://www.sparkfun.com/products/11894) (Optional, you can also solder the 7-segment directly to the PCB)
